@@ -1,0 +1,12 @@
+/* Tổ chức Đảng start */
+.wrap-party-org .party-org-tree {
+    width: 400px;
+    min-width: 400px;
+}
+.wrap-party-org .party-org-tree .p-panel-content {
+    padding: 0px;
+}
+.wrap-party-org .party-org-tree .p-tree.p-component {
+    border: none;
+}
+/* Tổ chức Đảng end */

@@ -1,0 +1,105 @@
+/**CSS common**/
+.display-table {
+    display: table;
+}
+.w100 {
+    width: 100%;
+}
+.h100 {
+    height: 100%;
+}
+.h100vh {
+    height: 100vh;
+}
+.display-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+.p5 {
+    padding: 5px;
+}
+.p10 {
+    padding: 10px;
+}
+.p15 {
+    padding: 15px;
+}
+.p20 {
+    padding: 15px;
+}
+.text-center {
+    text-align: center;
+}
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
+.position-relative {
+    position: relative;
+}
+.position-absolute {
+    position: absolute;
+}
+.size-1 {
+    min-width: 40px;
+}
+.size-2 {
+    width: 80px;
+}
+.size-3 {
+    width: 120px;
+}
+.size-4 {
+    width: 160px;
+}
+.size-5 {
+    width: 200px;
+}
+.size-6 {
+    width: 240px;
+}
+.size-7 {
+    width: 280px;
+}
+.size-8 {
+    width: 320px;
+}
+.size-9 {
+    width: 360px;
+}
+.size-10 {
+    width: 400px;
+}
+.size-11 {
+    width: 440px;
+}
+.size-12 {
+    width: 480px;
+}
+.size-all {
+    flex: 1 !important;
+}
+.mxw-1{
+    max-width: 40px;
+}
+.mxw-2{
+    max-width: 80px;
+}
+.mxw-3{
+    max-width: 120px;
+}
+.mxw-4{
+    max-width: 160px;
+}
+.mxw-5{
+    max-width: 200px;
+}
+.mxw-6{
+    max-width: 240px;
+}
+.text-center {
+    justify-content: center;
+    text-align: center;
+}

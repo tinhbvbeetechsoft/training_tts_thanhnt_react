@@ -1,0 +1,46 @@
+{
+    "": "",
+    "error": {
+        "http": {
+            "404": "The page does not exist."
+        }
+    },
+    "title": "Web app",
+    "common": {
+        "NA": "",
+        "inputCode": "Nhập mã",
+        "inputName": "Nhập tên",
+        "validateRequired": "* Trường bắt buộc nhập",
+        "validateMinLength": "* Độ dài tối thiểu {{min}} ký tự",
+        "validateMaxLength": "* Độ dài tối đa {{max}} ký tự",
+        "dataNotFound": "Không tìm thấy dữ liệu",
+        "rowNum": "STT",
+        "actionLabel": "Thao tác",
+        "addLabel": "Thêm mới",
+        "deleteLabel": "Xóa",
+        "currentPageReportTemplate": "Tìm thấy {totalRecords}, hiển thị từ {first} tới {last}",
+        "selected": "Chọn",
+        "requiredSelected": "Vui lòng chọn",
+        "viewLabel": "Xem",
+        "editLabel": "Sửa",
+        "created": "Tạo mới dữ liệu thành công",
+        "updated": "Cập nhật dữ liệu thành công",
+        "deleted": "Xóa dữ liệu thành công",
+        "success": "Thực hiện thao tác thành công",
+        "error": "Thao tác thực hiện không thành công",
+        "confirm": "Xác nhận",
+        "confirmDelete": "Bạn có chắc chắn muốn xóa bản ghi này?",
+        "confirmSaveOrUpdate": "Bạn có chắc chắn muốn lưu bản ghi này?",
+        "acceptLabel": "Đồng ý",
+        "rejectLabel": "Hủy",
+        "searchLabel": "Tìm kiếm nâng cao",
+        "saveLabel": "Lưu lại",
+        "cancelLabel": "Hủy",
+        "updateLabel": "Cập nhật",
+        "searchInfo": "Thông tin tìm kiếm",
+        "invalidCredential": "Đăng nhập thất bại",
+        "collapsed": "Thu gọn",
+        "expand": "Mở rộng",
+        "closeLabel": "Đóng"
+    }
+}
